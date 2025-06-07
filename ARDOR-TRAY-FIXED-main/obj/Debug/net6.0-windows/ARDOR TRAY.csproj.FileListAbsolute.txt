@@ -1,0 +1,98 @@
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.exe
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.deps.json
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.runtimeconfig.json
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.pdb
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR_TRAY.Form1.resources
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.GenerateResource.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfoInputs.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfo.cs
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.CoreCompileInputs.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\refint\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.pdb
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.genruntimeconfig.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY\obj\Debug\net6.0-windows\ref\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\bin\Debug\net6.0-windows\ARDOR TRAY.exe
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\bin\Debug\net6.0-windows\ARDOR TRAY.deps.json
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\bin\Debug\net6.0-windows\ARDOR TRAY.runtimeconfig.json
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\bin\Debug\net6.0-windows\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\bin\Debug\net6.0-windows\ARDOR TRAY.pdb
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR_TRAY.Form1.resources
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.GenerateResource.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfoInputs.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfo.cs
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.CoreCompileInputs.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\refint\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.pdb
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.genruntimeconfig.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY without notifications\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ref\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\bin\Debug\net6.0-windows\ARDOR TRAY.exe
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\bin\Debug\net6.0-windows\ARDOR TRAY.deps.json
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\bin\Debug\net6.0-windows\ARDOR TRAY.runtimeconfig.json
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\bin\Debug\net6.0-windows\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\bin\Debug\net6.0-windows\ARDOR TRAY.pdb
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR_TRAY.Form1.resources
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.GenerateResource.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfoInputs.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfo.cs
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.CoreCompileInputs.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\refint\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.pdb
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ARDOR TRAY.genruntimeconfig.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY(При закрытии)\obj\Debug\net6.0-windows\ref\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.exe
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.deps.json
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.runtimeconfig.json
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.pdb
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR_TRAY.Form1.resources
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.GenerateResource.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfoInputs.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfo.cs
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.CoreCompileInputs.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\refint\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.pdb
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.genruntimeconfig.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED without notifications)\ARDOR TRAY\obj\Debug\net6.0-windows\ref\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.exe
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.deps.json
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.runtimeconfig.json
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.pdb
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR_TRAY.Form1.resources
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.GenerateResource.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfoInputs.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfo.cs
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.CoreCompileInputs.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\refint\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.pdb
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\ARDOR TRAY.genruntimeconfig.cache
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\obj\Debug\net6.0-windows\ref\ARDOR TRAY.dll
+C:\Users\fastt\Desktop\TRAY\ARDOR TRAY (FIXED)\ARDOR TRAY\bin\Debug\net6.0-windows\ARDOR TRAY.dll.config
+F:\My Progs\ARDOR-TRAY-FIXED-main\bin\Debug\net6.0-windows\ARDOR TRAY.exe
+F:\My Progs\ARDOR-TRAY-FIXED-main\bin\Debug\net6.0-windows\ARDOR TRAY.dll.config
+F:\My Progs\ARDOR-TRAY-FIXED-main\bin\Debug\net6.0-windows\ARDOR TRAY.deps.json
+F:\My Progs\ARDOR-TRAY-FIXED-main\bin\Debug\net6.0-windows\ARDOR TRAY.runtimeconfig.json
+F:\My Progs\ARDOR-TRAY-FIXED-main\bin\Debug\net6.0-windows\ARDOR TRAY.dll
+F:\My Progs\ARDOR-TRAY-FIXED-main\bin\Debug\net6.0-windows\ARDOR TRAY.pdb
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\ARDOR_TRAY.Form1.resources
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.GenerateResource.cache
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\ARDOR TRAY.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfoInputs.cache
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\ARDOR TRAY.AssemblyInfo.cs
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\ARDOR TRAY.csproj.CoreCompileInputs.cache
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\ARDOR TRAY.dll
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\refint\ARDOR TRAY.dll
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\ARDOR TRAY.pdb
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\ARDOR TRAY.genruntimeconfig.cache
+F:\My Progs\ARDOR-TRAY-FIXED-main\obj\Debug\net6.0-windows\ref\ARDOR TRAY.dll
